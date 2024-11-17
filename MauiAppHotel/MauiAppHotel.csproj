@@ -57,6 +57,48 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <AndroidResource Remove="NovaPasta1\**" />
+	  <AndroidResource Remove="NovaPasta2\**" />
+	  <AndroidResource Remove="NovaPasta3\**" />
+	  <AndroidResource Remove="NovaPasta4\**" />
+	  <AndroidResource Remove="NovaPasta5\**" />
+	  <AndroidResource Remove="NovaPasta\**" />
+	  <Compile Remove="NovaPasta1\**" />
+	  <Compile Remove="NovaPasta2\**" />
+	  <Compile Remove="NovaPasta3\**" />
+	  <Compile Remove="NovaPasta4\**" />
+	  <Compile Remove="NovaPasta5\**" />
+	  <Compile Remove="NovaPasta\**" />
+	  <EmbeddedResource Remove="NovaPasta1\**" />
+	  <EmbeddedResource Remove="NovaPasta2\**" />
+	  <EmbeddedResource Remove="NovaPasta3\**" />
+	  <EmbeddedResource Remove="NovaPasta4\**" />
+	  <EmbeddedResource Remove="NovaPasta5\**" />
+	  <EmbeddedResource Remove="NovaPasta\**" />
+	  <MauiCss Remove="NovaPasta1\**" />
+	  <MauiCss Remove="NovaPasta2\**" />
+	  <MauiCss Remove="NovaPasta3\**" />
+	  <MauiCss Remove="NovaPasta4\**" />
+	  <MauiCss Remove="NovaPasta5\**" />
+	  <MauiCss Remove="NovaPasta\**" />
+	  <MauiXaml Remove="NovaPasta1\**" />
+	  <MauiXaml Remove="NovaPasta2\**" />
+	  <MauiXaml Remove="NovaPasta3\**" />
+	  <MauiXaml Remove="NovaPasta4\**" />
+	  <MauiXaml Remove="NovaPasta5\**" />
+	  <MauiXaml Remove="NovaPasta\**" />
+	  <None Remove="NovaPasta1\**" />
+	  <None Remove="NovaPasta2\**" />
+	  <None Remove="NovaPasta3\**" />
+	  <None Remove="NovaPasta4\**" />
+	  <None Remove="NovaPasta5\**" />
+	  <None Remove="NovaPasta\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Kalam-Bold.ttf" />
+	  <None Remove="Kalam-Light.ttf" />
+	  <None Remove="Kalam-Regular.ttf" />
 	  <None Remove="Resources\Fonts\Kalam-Bold.ttf" />
 	  <None Remove="Resources\Fonts\Kalam-Light.ttf" />
 	  <None Remove="Resources\Fonts\Kalam-Regular.ttf" />
